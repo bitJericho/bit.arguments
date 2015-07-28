@@ -32,4 +32,3 @@ Last updated 2015.
 
 ---
 Eric Canales
-eric@canales.me
